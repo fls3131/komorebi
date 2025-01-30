@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/cheesecakeufo/komorebi/master/screenshots/komorebi-icon.png" width="130"></p>
-<h2 align="center">Komorebi - Animated Wallpapers for Linux</h2>
+<h2 align="center">Komorebi MX Linux BR Edition - Animated Wallpapers for Linux</h2>
 <p align="center">(n) sunlight filtering through trees.</p>
 
 
@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NvfRy5qMsos
-" target="_blank"><img src="http://img.youtube.com/vi/NvfRy5qMsos/0.jpg" 
-alt="Komorebi Demo" width="240" height="180" border="10" /><br>Watch demo</a>
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=NvfRy5qMsos" target="_blank"><br>Watch demo</a>
 </p>
 
 ## What is Komorebi?
